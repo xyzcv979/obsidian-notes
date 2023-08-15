@@ -136,8 +136,17 @@
                 "file": "daily/2023-08-15.md"
               }
             }
+          },
+          {
+            "id": "cc2655c7c760794b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,15 +160,18 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c43a17e8bc62293",
+  "active": "cc2655c7c760794b",
   "lastOpenFiles": [
-    "Learning new languages + frameworks quickly.md",
+    "2023-W33.md",
     "daily/2023-08-15.md",
+    "Learning new languages + frameworks quickly.md",
+    "Leetcode",
+    "System Design",
     "daily",
-    "Untitled",
     "2023-08-15.md"
   ]
 }
