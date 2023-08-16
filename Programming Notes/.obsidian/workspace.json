@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-08-15.md",
+                "file": "Learning new languages + frameworks quickly.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-08-15.md",
+                "file": "Learning new languages + frameworks quickly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-08-15.md",
+                "file": "Learning new languages + frameworks quickly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-08-15.md"
+                "file": "Learning new languages + frameworks quickly.md"
               }
             }
           },
@@ -164,11 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc2655c7c760794b",
+  "active": "8c43a17e8bc62293",
   "lastOpenFiles": [
-    "2023-W33.md",
-    "daily/2023-08-15.md",
+    "daily/2023-08-16.md",
     "Learning new languages + frameworks quickly.md",
+    "daily/2023-08-15.md",
+    "2023-W33.md",
     "Leetcode",
     "System Design",
     "daily",

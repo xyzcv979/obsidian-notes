@@ -1,4 +1,6 @@
 
+> What I Cannot Create, I Do Not Understand -Richard Feynman
+
 Bias reading (blogs, documentationm, code, books, etc) over videos
 
 For new **programming languages**
