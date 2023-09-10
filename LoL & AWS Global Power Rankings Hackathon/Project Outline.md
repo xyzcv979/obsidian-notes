@@ -8,10 +8,10 @@
 - **Project Duration**: [Start and end dates of the project]
 - **Project Team**: [List team members and their roles]
 
-%% ## Stakeholders and Communication
+[%% ## Stakeholders and Communication
 - **Stakeholders**: [Identify all project stakeholders, including end-users, sponsors, and team members]
 - **Communication Plan**: [Detail how and when you will communicate with stakeholders]
- %%
+ %%]
 ## Requirements Gathering
 - **Functional Requirements**: [List all functional requirements for the website, API, and data pipeline]
 - **Non-Functional Requirements**: [List non-functional requirements such as performance, security, and scalability]
