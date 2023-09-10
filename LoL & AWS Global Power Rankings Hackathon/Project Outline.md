@@ -2,11 +2,11 @@
 # Project Planning Outline
 
 ## Project Overview
-- **Project Name**: [Project Start]
-- **Project Objective**: [Predict LoL 2023 champions]
-- **Project Scope**: [Front-end, API, databases, machine learning, AWS]
-- **Project Duration**: [9/10/2023 - 10/23/2023]
-- **Project Team**: [Alexander Ng - Owner, developer, tester]
+- **Project Name**: Project Start
+- **Project Objective**: Predict LoL 2023 champions
+- **Project Scope**: Front-end, API, databases, machine learning, AWS
+- **Project Duration**: 9/10/2023 - 10/23/2023
+- **Project Team**: Alexander Ng - Owner, developer, tester
 
 ## Requirements Gathering
 - **Functional Requirements**: [List all functional requirements for the website, API, and data pipeline]
