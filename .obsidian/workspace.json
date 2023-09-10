@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LoL & AWS Global Power Rankings Hackathon/Project Outline.md",
+                "file": "LoL & AWS Global Power Rankings Hackathon/README.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoL & AWS Global Power Rankings Hackathon/Project Outline.md",
+                "file": "LoL & AWS Global Power Rankings Hackathon/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoL & AWS Global Power Rankings Hackathon/Project Outline.md",
+                "file": "LoL & AWS Global Power Rankings Hackathon/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LoL & AWS Global Power Rankings Hackathon/Project Outline.md"
+                "file": "LoL & AWS Global Power Rankings Hackathon/README.md.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "61d3e9237a4133c0",
   "lastOpenFiles": [
     "Programming Notes/Learning new languages + frameworks quickly.md",
-    "LoL & AWS Global Power Rankings Hackathon/Project Outline.md",
+    "LoL & AWS Global Power Rankings Hackathon/README.md.md",
     "LoL & AWS Global Power Rankings Hackathon"
   ]
 }
