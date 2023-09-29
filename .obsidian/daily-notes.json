@@ -1,0 +1,6 @@
+{
+  "folder": "Dailies",
+  "format": "MM-DD-YYYY",
+  "template": "templates/daily template",
+  "autorun": true
+}

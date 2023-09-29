@@ -1,15 +1,15 @@
 
-# Project Planning Outline
+# Project Documentation
 
 ## Project Overview
-- **Project Name**: Project Start
+- **Project Name**: PLACEHOLDER
 - **Project Objective**: Predict LoL 2023 champions
 - **Project Scope**: Front-end, API, databases, machine learning, AWS
 - **Project Duration**: 9/10/2023 - 10/23/2023
 - **Project Team**: Alexander Ng - Owner, developer, tester
 
 ## Requirements Gathering
-- **Functional Requirements**: [List all functional requirements for the website, API, and data pipeline]
+- **Functional Requirements**: Website needs to display 
 - **Non-Functional Requirements**: [List non-functional requirements such as performance, security, and scalability]
 - **Data Sources**: [Identify sources of data and data format]
 

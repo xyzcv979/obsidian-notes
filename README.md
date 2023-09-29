@@ -12,3 +12,4 @@
 	5. Prioritize code quality and maintainability
 	6. Embrace diverse projects,technologies,languages
 	7. Cultivate soft skills
+

@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "61d3e9237a4133c0",
+            "id": "04439b8c2f0f5732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LoL & AWS Global Power Rankings Hackathon/README.md",
+                "file": "Schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f08b6a120ff32539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Notes/The Odin Project/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoL & AWS Global Power Rankings Hackathon/README.md",
+                "file": "Programming Notes/The Odin Project/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoL & AWS Global Power Rankings Hackathon/README.md",
+                "file": "Programming Notes/The Odin Project/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +150,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LoL & AWS Global Power Rankings Hackathon/README.md"
+                "file": "Programming Notes/The Odin Project/Notes.md"
+              }
+            }
+          },
+          {
+            "id": "3c8a22eaf6743d72",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,13 +179,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "61d3e9237a4133c0",
+  "active": "f08b6a120ff32539",
   "lastOpenFiles": [
-    "Programming Notes/Learning new languages + frameworks quickly.md",
-    "LoL & AWS Global Power Rankings Hackathon/README.md",
-    "LoL & AWS Global Power Rankings Hackathon"
+    "Programming Notes/1. Learning new languages + frameworks quickly.md",
+    "Programming Notes/The Odin Project/Notes.md",
+    "Schedule.md",
+    "Dailies/09-29-2023.md",
+    "Programming Notes/The Odin Project",
+    "Projects",
+    "templates/daily template.md",
+    "Books/Designing Data-Intensive Applications/Chapter 1- Reliable Scalable, and Maintainable Applications.md",
+    "templates/Note taking.md",
+    "Books/Designing Data-Intensive Applications/1. Table of Contents.md",
+    "Books/Designing Data-Intensive Applications/Chapter X - Chapter Title.md",
+    "attachments",
+    "Books/System Design Interview/1. Table of Contents.md",
+    "Books/System Design Interview.md",
+    "Books/System Design Interview",
+    "Books/Designing Data-Intensive Applications.md",
+    "Books/Designing Data-Intensive Applications",
+    "README.md",
+    "Dailies/09-25-2023.md",
+    "Books",
+    "Dailies/09-18-2023.md",
+    "templates",
+    "Leetcode/Arrays.md",
+    "Dailies/09-11-2023.md",
+    "Leetcode",
+    "daily/2023-08-15.md",
+    "daily/2023-08-16.md",
+    "daily/2023-09-11.md",
+    "2023-09-11.md",
+    "Projects/LoL & AWS Global Power Rankings Hackathon/README.md",
+    "Projects/LoL & AWS Global Power Rankings Hackathon"
   ]
 }

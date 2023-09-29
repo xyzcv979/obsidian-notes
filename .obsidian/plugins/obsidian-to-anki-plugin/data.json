@@ -1,0 +1,114 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "^Q: ((?:.+\\n)*)\\n*A: (.+(?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": "",
+      "Cloze-ca826": "",
+      "基础": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Cloze": "Text",
+      "Cloze-ca826": "Text",
+      "基础": "正面"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Programming Notes": "",
+      "daily": "",
+      "LoL & AWS Global Power Rankings Hackathon": "",
+      "Leetcode": "",
+      "Books": "",
+      "attachments": "",
+      "templates": "",
+      "Books/Designing Data-Intensive Applications": "",
+      "Books/System Design Interview": ""
+    },
+    "FOLDER_TAGS": {
+      "Programming Notes": "",
+      "daily": "",
+      "LoL & AWS Global Power Rankings Hackathon": "",
+      "Leetcode": "",
+      "Books": "",
+      "attachments": "",
+      "templates": "",
+      "Books/Designing Data-Intensive Applications": "",
+      "Books/System Design Interview": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "templates/Note taking.md": "3632c00f3cf83f55fe3d7800006faea0",
+    "templates/daily template.md": "2cb9f7e959a14abdafc53837524fb695",
+    "Books/System Design Interview/1. Table of Contents.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Books/Designing Data-Intensive Applications/Chapter X - Chapter Title.md": "c635605a83778702a33868f4b7db0b49",
+    "Books/Designing Data-Intensive Applications/1. Table of Contents.md": "1c0fdbed67371ced5c0dc5ab08aca3f2",
+    "Books/Designing Data-Intensive Applications/Chapter 1- Reliable Scalable, and Maintainable Applications.md": "8c05661e0ef0e73f4123cdf4ea6a4323",
+    "Schedule.md": "8c352ea87bf9f51e9402955c8762b0f9",
+    "Leetcode/Arrays.md": "1e3b0d90e87e1af528c57b04c056b1f9",
+    "README.md": "74447eaf2cf4aa039c8b6c380dc0018c",
+    "LoL & AWS Global Power Rankings Hackathon/README.md": "58ed62a167f973a072ca8ae2c16c6fe4",
+    "daily/09-25-2023.md": "0f40d234aaec205c68926b42bf51a403",
+    "daily/09-18-2023.md": "e7ae520318b4f9c46a806d88e1914498",
+    "daily/09-11-2023.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Programming Notes/Learning new languages + frameworks quickly.md": "695dcc49b9b6c72e9a4235b5686f6cc0"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Cloze-ca826": [
+      "Text",
+      "Back Extra"
+    ],
+    "基础": [
+      "正面",
+      "背面"
+    ]
+  }
+}
