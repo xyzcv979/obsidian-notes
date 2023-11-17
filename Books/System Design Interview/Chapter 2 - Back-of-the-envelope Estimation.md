@@ -1,0 +1,3 @@
+- Power of two
+- Latency numbers every programmer should know
+- Availability numbers

@@ -37,14 +37,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Notes/The Odin Project/Notes.md",
+                "file": "Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1506b1a29d3b41d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d5df413495377882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Notes/The Odin Project/Notes.md",
+                "file": "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Notes/The Odin Project/Notes.md",
+                "file": "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notes/The Odin Project/Notes.md"
+                "file": "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md"
               }
             }
           },
@@ -184,21 +206,35 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "f08b6a120ff32539",
+  "active": "d5df413495377882",
   "lastOpenFiles": [
-    "Programming Notes/1. Learning new languages + frameworks quickly.md",
-    "Programming Notes/The Odin Project/Notes.md",
-    "Schedule.md",
+    "Books/System Design Interview/Chapter 4 - Design Rate Limiter.md",
+    "Books/System Design Interview/Chapter 3 - A framework for system design interviews.md",
+    "Books/System Design Interview/Chapter 2 - Back-of-the-envelope Estimation.md",
+    "Books/System Design Interview/Chapter 1 - Scale From zero to millions of users.md",
+    "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
+    "Books/System Design Interview/Chapter 6 - Design Key Value Store.md",
+    "Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
+    "Books/Designing Data-Intensive Applications/Chapter 3 - Storage and Retrieval.md",
+    "Programming Notes/Untitled",
+    "Books/Designing Data-Intensive Applications/Chapter 2 - Data Models and Query Languages.md",
+    "Books/Designing Data-Intensive Applications/Chapter 1- Reliable Scalable, and Maintainable Applications.md",
+    "Books/Designing Data-Intensive Applications/Chapter X - Chapter Title.md",
+    "Books/System Design Interview/1. Table of Contents.md",
+    "Dailies/11-05-2023.md",
+    "Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md",
+    "Excalidraw",
+    "Books/System Design Interview/Drawings",
+    "Books/Designing Data-Intensive Applications/1. Table of Contents.md",
+    "Programming Notes/The Odin Project/HTML.md",
     "Dailies/09-29-2023.md",
+    "templates/daily template.md",
+    "Schedule.md",
+    "Programming Notes/1. Learning new languages + frameworks quickly.md",
     "Programming Notes/The Odin Project",
     "Projects",
-    "templates/daily template.md",
-    "Books/Designing Data-Intensive Applications/Chapter 1- Reliable Scalable, and Maintainable Applications.md",
     "templates/Note taking.md",
-    "Books/Designing Data-Intensive Applications/1. Table of Contents.md",
-    "Books/Designing Data-Intensive Applications/Chapter X - Chapter Title.md",
     "attachments",
-    "Books/System Design Interview/1. Table of Contents.md",
     "Books/System Design Interview.md",
     "Books/System Design Interview",
     "Books/Designing Data-Intensive Applications.md",
@@ -207,15 +243,6 @@
     "Dailies/09-25-2023.md",
     "Books",
     "Dailies/09-18-2023.md",
-    "templates",
-    "Leetcode/Arrays.md",
-    "Dailies/09-11-2023.md",
-    "Leetcode",
-    "daily/2023-08-15.md",
-    "daily/2023-08-16.md",
-    "daily/2023-09-11.md",
-    "2023-09-11.md",
-    "Projects/LoL & AWS Global Power Rankings Hackathon/README.md",
-    "Projects/LoL & AWS Global Power Rankings Hackathon"
+    "templates"
   ]
 }
