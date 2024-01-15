@@ -14,7 +14,8 @@
 	6. Embrace diverse projects,technologies,languages
 	7. Cultivate soft skills
 
-10 Things Software Developers Should Learn about Learning
+### 10 Things Software Developers Should Learn about Learning
+
 [Reference](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext?utm_campaign=database-fundamentals&utm_medium=newsletter&utm_source=newsletter.programmingdigest.net)
 
 1. Human memory is not bits
