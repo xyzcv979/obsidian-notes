@@ -18,39 +18,58 @@
 
 [Reference](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext?utm_campaign=database-fundamentals&utm_medium=newsletter&utm_source=newsletter.programmingdigest.net)
 
-1. Human memory is not bits
-	1. Human memory is unreliable, but great for problem solving. Pathways connect, "aha" moment", sometimes when stepping away from the problem
-2. Human memory is composed of one limited and one unlimited system
-	1. Cognitive load: intrinsic and extraneous
-	2. Easier to understand a diagram versus if it was just an english description
-3. Experts recognize, beginners reason
-	1. Pattern matching, less cognitive load
-	2. Reading and working with more code increase programming proficiency
-4. Understanding a concept goes from Abstract to Concrete and back
-	1. Abstract features to concrete details
-	2. Beginners focus on the concrete details (exact syntax) while experts focus on abstract features, understand and predicts the details while learning it.
-	3. When learning a new concept, use a bit of both
-	4. Unpack from abstract to concrete and then repack it to abstract
-5. Spacing and Repetition matter
+<details>
+  <summary>Human memory is not bits</summary>
+  1. Human memory is unreliable, but great for problem solving. Pathways connect, "aha" moment", sometimes when stepping away from the problem
+</details>
+<details>
+  <summary>Human memory is composed of one limited and one unlimited system</summary>
+  	1. Cognitive load: intrinsic and extraneous
+  	2. Easier to understand a diagram versus if it was just an english description
+</details>
+<details>
+  <summary>Experts Recognize, Beginners Reason</summary>
+  1. Pattern matching, less cognitive load
+  2. Reading and working with more code increase programming proficiency
+</details>
+<details>
+  <summary>Understanding a concept goes from Abstract to Concrete and back</summary>
+  	1. Abstract features to concrete details
+  	2. Beginners focus on the concrete details (exact syntax) while experts focus on abstract features, understand and predicts the details while learning it.
+  	3. When learning a new concept, use a bit of both
+  	4. Unpack from abstract to concrete and then repack it to abstract
+</details>
+<details>
+  <summary>Spacing and Repetition Matter</summary>
 	1. Problem solving involves 2 steps:
 		1. Matching a concept to the problem that it solves
 		2. Applying that concept
 	2. Common problem is solving problems but being told already what concept to use. Brain needs rest to consolidate information, randomize the types of problems to build long-term memory
 	3. 90 minutes of learning max, 20 mins of rest at least
-6. The Internet has not made Learning obsolete
+</details>
+<details>
+  <summary>The Internet has not made Learning obsolete</summary>
 	1. Brain needs to build connections to remember. Internet provided information is remembered less
-7. Problem-solving is Not a Generic skill
+</details>
+<details>
+  <summary>Problem-solving is Not a Generic skill</summary>
 	1. Skills like chess, music, cognitive training does not influence problem solving. Inability to transfer problem-solving skills is why "brain training" does not work to developing intelligence
 	2. One exception is spacial skills (like rotating tetris pieces in your mind)
 	3. Ultimately, don't use brain teasers to test for programming ability, assess their programming ability
-8. Expertise can be problematic in some situations
+</details>
+<details>
+  <summary>Expertise can be problematic in some situations</summary>
 	1. Expertise-reversal effect: hints/guides for beginners hinder experts
 	2. Expertise blind-spot problem: experts don't realize beginners think differently. Overcome this by listening to what beginners currently know
 	3. Beginners learn more from beginner-oriented learnings or from a peer whom bridges gap between beginners and experts
-9. The Predictors of Programming Ability Are Unclear
+</details>
+<details>
+  <summary>The Predictors of Programming Ability Are Unclear</summary>
 	1. Learning programming: "You're born with it" vs "10,000 hours of work". Both are wrong
 	2. gender, age, school major, race, performance in math, prior experience with programming language, preferences for humanties or science, intelligence all fail to predict programming ability. Conclusion: there are no reliable "candidate profile" to screen candidates for programming ability
-10. Your Mindset Matters
+</details>
+<details>
+  <summary>Your Mindset Matters</summary>
 	1. Either born with it or not
 	2. Fixed vs growth mindset
 	3. Neither are completely true: Everyone can learn physics even if they're not good enough but you won't win Nobel Peace Prize no matter how much you practiced 
@@ -61,7 +80,8 @@
 	6. Goal Oriented: "Approach" vs "Avoidance" goal orientation. Take on challenges, seek help, work hard, embrace failures and learn from them
 	7. For mentors: provide honest feedback, praise areas where learners are progressing, accept that they'll make mistakes
 	8. For learners: Reflect on improved skills, accept that growth mindset will turn to fixed in face of failure but can be redeveloped and made stronger with practice, take a break when you feel like quitting
-11. Summary
+</details>
+Summary
 	1. For recruiters:
 		1. No good proxies for programming ability. Look at their previous work, test them with programming tasks and not brain teasers
 		2. Recommend assigning a problem for candidates on their own before presenting the solution. The added pressure from someone observing adds cognitive load/stress and impairs performance
