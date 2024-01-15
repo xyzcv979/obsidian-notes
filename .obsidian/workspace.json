@@ -59,14 +59,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
+                "file": "Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96093868f903c12c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md"
+                "file": "README.md"
               }
             }
           },
@@ -182,7 +194,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -206,16 +220,19 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "d5df413495377882",
+  "active": "96093868f903c12c",
   "lastOpenFiles": [
+    "Dailies/01-15-2024.md",
+    "Books/Designing Data-Intensive Applications/Chapter 3 - Storage and Retrieval.md",
+    "Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
+    "Dailies/01-07-2024.md",
+    "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
     "Books/System Design Interview/Chapter 4 - Design Rate Limiter.md",
     "Books/System Design Interview/Chapter 3 - A framework for system design interviews.md",
     "Books/System Design Interview/Chapter 2 - Back-of-the-envelope Estimation.md",
     "Books/System Design Interview/Chapter 1 - Scale From zero to millions of users.md",
-    "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
     "Books/System Design Interview/Chapter 6 - Design Key Value Store.md",
     "Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
-    "Books/Designing Data-Intensive Applications/Chapter 3 - Storage and Retrieval.md",
     "Programming Notes/Untitled",
     "Books/Designing Data-Intensive Applications/Chapter 2 - Data Models and Query Languages.md",
     "Books/Designing Data-Intensive Applications/Chapter 1- Reliable Scalable, and Maintainable Applications.md",
@@ -239,10 +256,7 @@
     "Books/System Design Interview",
     "Books/Designing Data-Intensive Applications.md",
     "Books/Designing Data-Intensive Applications",
-    "README.md",
-    "Dailies/09-25-2023.md",
     "Books",
-    "Dailies/09-18-2023.md",
     "templates"
   ]
 }
