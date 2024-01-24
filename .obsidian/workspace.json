@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programming Notes/CS61B.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Programming Notes/CS61B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Programming Notes/CS61B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Programming Notes/CS61B.md"
               }
             }
           },
@@ -222,6 +222,9 @@
   },
   "active": "96093868f903c12c",
   "lastOpenFiles": [
+    "Dailies/01-24-2024.md",
+    "Programming Notes/CS61B.md",
+    "README.md",
     "Dailies/01-15-2024.md",
     "Books/Designing Data-Intensive Applications/Chapter 3 - Storage and Retrieval.md",
     "Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
@@ -250,11 +253,8 @@
     "Programming Notes/1. Learning new languages + frameworks quickly.md",
     "Programming Notes/The Odin Project",
     "Projects",
-    "templates/Note taking.md",
     "attachments",
-    "Books/System Design Interview.md",
     "Books/System Design Interview",
-    "Books/Designing Data-Intensive Applications.md",
     "Books/Designing Data-Intensive Applications",
     "Books",
     "templates"

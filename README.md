@@ -20,17 +20,18 @@
 
 <details>
   <summary>Human memory is not bits</summary>
-  1. Human memory is unreliable, but great for problem solving. Pathways connect, "aha" moment", sometimes when stepping away from the problem
+  <p>Human memory is unreliable, but great for problem solving. Pathways connect, "aha" moment", sometimes when stepping away from the problem</p>
 </details>
 <details>
   <summary>Human memory is composed of one limited and one unlimited system</summary>
-  	1. Cognitive load: intrinsic and extraneous
-  	2. Easier to understand a diagram versus if it was just an english description
+  	Cognitive load: intrinsic and extraneous
+  	Easier to understand a diagram versus if it was just an english description
 </details>
 <details>
   <summary>Experts Recognize, Beginners Reason</summary>
-  1. Pattern matching, less cognitive load
-  2. Reading and working with more code increase programming proficiency
+  <p> Pattern matching, less cognitive load
+  Reading and working with more code increase programming proficiency</p>
+
 </details>
 <details>
   <summary>Understanding a concept goes from Abstract to Concrete and back</summary>
@@ -81,7 +82,8 @@
 	7. For mentors: provide honest feedback, praise areas where learners are progressing, accept that they'll make mistakes
 	8. For learners: Reflect on improved skills, accept that growth mindset will turn to fixed in face of failure but can be redeveloped and made stronger with practice, take a break when you feel like quitting
 </details>
-Summary
+
+#### Summary
 	1. For recruiters:
 		1. No good proxies for programming ability. Look at their previous work, test them with programming tasks and not brain teasers
 		2. Recommend assigning a problem for candidates on their own before presenting the solution. The added pressure from someone observing adds cognitive load/stress and impairs performance
