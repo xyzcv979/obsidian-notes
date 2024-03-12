@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
+                "file": "Programming Notes/Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md"
+                "file": "Programming Notes/Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md"
               }
             }
           },
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
+                "file": "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,9 +76,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a5535d09be13efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Notes/Data Engineering Zoomcamp/1. Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa925705440cb2d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -144,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Notes/CS61B.md",
+                "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Notes/CS61B.md",
+                "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notes/CS61B.md"
+                "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md"
               }
             }
           },
@@ -220,43 +244,43 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "96093868f903c12c",
+  "active": "aa925705440cb2d7",
   "lastOpenFiles": [
-    "Dailies/01-24-2024.md",
+    "Programming Notes/Data Engineering Zoomcamp/Module 1 - Docker, Terraform.md",
+    "Programming Notes/Data Engineering Zoomcamp/1. Overview.md",
+    "Programming Notes/Data Engineering Zoomcamp",
+    "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
+    "Dailies/03-12-2024.md",
+    "Programming Notes/Leetcode/Graphs.md",
+    "Dailies/02-23-2024.md",
     "Programming Notes/CS61B.md",
+    "Dailies/01-24-2024.md",
     "README.md",
     "Dailies/01-15-2024.md",
-    "Books/Designing Data-Intensive Applications/Chapter 3 - Storage and Retrieval.md",
-    "Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
+    "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 3 - Storage and Retrieval.md",
+    "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
     "Dailies/01-07-2024.md",
-    "Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
-    "Books/System Design Interview/Chapter 4 - Design Rate Limiter.md",
-    "Books/System Design Interview/Chapter 3 - A framework for system design interviews.md",
-    "Books/System Design Interview/Chapter 2 - Back-of-the-envelope Estimation.md",
-    "Books/System Design Interview/Chapter 1 - Scale From zero to millions of users.md",
-    "Books/System Design Interview/Chapter 6 - Design Key Value Store.md",
-    "Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
+    "Programming Notes/Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
+    "Programming Notes/Books/System Design Interview/Chapter 4 - Design Rate Limiter.md",
+    "Programming Notes/Books/System Design Interview/Chapter 3 - A framework for system design interviews.md",
+    "Programming Notes/Books/System Design Interview/Chapter 2 - Back-of-the-envelope Estimation.md",
+    "Programming Notes/Books/System Design Interview/Chapter 1 - Scale From zero to millions of users.md",
+    "Programming Notes/Books/System Design Interview/Chapter 6 - Design Key Value Store.md",
+    "Programming Notes/Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
     "Programming Notes/Untitled",
-    "Books/Designing Data-Intensive Applications/Chapter 2 - Data Models and Query Languages.md",
-    "Books/Designing Data-Intensive Applications/Chapter 1- Reliable Scalable, and Maintainable Applications.md",
+    "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 2 - Data Models and Query Languages.md",
+    "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 1- Reliable Scalable, and Maintainable Applications.md",
     "Books/Designing Data-Intensive Applications/Chapter X - Chapter Title.md",
-    "Books/System Design Interview/1. Table of Contents.md",
+    "Programming Notes/Books/System Design Interview/1. Table of Contents.md",
     "Dailies/11-05-2023.md",
-    "Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md",
+    "Programming Notes/Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md",
     "Excalidraw",
-    "Books/System Design Interview/Drawings",
-    "Books/Designing Data-Intensive Applications/1. Table of Contents.md",
-    "Programming Notes/The Odin Project/HTML.md",
-    "Dailies/09-29-2023.md",
-    "templates/daily template.md",
-    "Schedule.md",
-    "Programming Notes/1. Learning new languages + frameworks quickly.md",
+    "Programming Notes/Books/System Design Interview/Drawings",
     "Programming Notes/The Odin Project",
-    "Projects",
+    "Programming Notes/Projects",
     "attachments",
-    "Books/System Design Interview",
-    "Books/Designing Data-Intensive Applications",
-    "Books",
-    "templates"
+    "Programming Notes/Books/System Design Interview",
+    "Programming Notes/Books/Designing Data-Intensive Applications",
+    "Programming Notes/Books"
   ]
 }

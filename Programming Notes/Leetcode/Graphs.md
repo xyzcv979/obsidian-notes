@@ -1,0 +1,16 @@
+## General Graph Ideas:
+- N nodes and N edges means the graph has a cycle. N nodes and N-1 edges is a graph with no cycles
+
+## Graph algorithms for shortest path:
+**dijkstras** - finds shortest path from source node to all other nodes
+**bellman ford** - for negative weights
+**floyd-warshall** - computes shortest path for ea. pair of nodes
+  
+
+**Dijkstras Algorithm**:
+The idea of dijkstra is setting the starting dist to every node from source node to infinity.
+Add them to univsited set
+Loop neighbors, update their distance to min(node's curr dist, dist so far)
+Once a node visited all of it's unvisited nodes, mark the node as visited, it is finalized. (Red color)
+
+White (undiscovered) - Grey (discovered, updating its neighbors distances) - Red (visited all of its neighbors, mark as done)
