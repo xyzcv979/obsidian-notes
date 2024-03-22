@@ -4,105 +4,140 @@
     "type": "split",
     "children": [
       {
-        "id": "b5576017823d9818",
-        "type": "tabs",
+        "id": "b7792ca4fca50cc5",
+        "type": "split",
         "children": [
           {
-            "id": "7ac2abad836e947b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+            "id": "b5576017823d9818",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ac2abad836e947b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "04439b8c2f0f5732",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Schedule.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f08b6a120ff32539",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programming Notes/Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1506b1a29d3b41d1",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Programming Notes/Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md"
+                  }
+                }
+              },
+              {
+                "id": "d5df413495377882",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "96093868f903c12c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programming Notes/CS61B.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9a5535d09be13efb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programming Notes/Data Engineering Zoomcamp/1. Overview.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "aa925705440cb2d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a7aaa211ed5b306c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programming Notes/Data Engineering Zoomcamp/Module 3 - Data warehouse (BigQuery).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 8
           },
           {
-            "id": "04439b8c2f0f5732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule.md",
-                "mode": "source",
-                "source": false
+            "id": "aa16b86a619c3e9d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "77042324d6efead9",
+                "type": "leaf",
+                "state": {
+                  "type": "diagram-edit",
+                  "state": {
+                    "file": "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg"
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "f08b6a120ff32539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Notes/Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1506b1a29d3b41d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Programming Notes/Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d5df413495377882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96093868f903c12c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Notes/CS61B.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a5535d09be13efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Notes/Data Engineering Zoomcamp/1. Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa925705440cb2d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 7
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -168,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
+                "file": "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
+                "file": "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md"
+                "file": "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg"
               }
             }
           },
@@ -244,12 +279,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "aa925705440cb2d7",
+  "active": "77042324d6efead9",
   "lastOpenFiles": [
-    "Programming Notes/Data Engineering Zoomcamp/Module 1 - Docker, Terraform.md",
-    "Programming Notes/Data Engineering Zoomcamp/1. Overview.md",
-    "Programming Notes/Data Engineering Zoomcamp",
+    "Programming Notes/Data Engineering Zoomcamp/Module 3 - Data warehouse (BigQuery).md",
+    "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg",
     "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
+    "Programming Notes/Data Engineering Zoomcamp/1. Overview.md",
+    "Programming Notes/Data Engineering Zoomcamp/Module 1 - Docker, Terraform.md",
+    "Dailies/03-19-2024.md",
+    "Programming Notes/Data Engineering Zoomcamp",
     "Dailies/03-12-2024.md",
     "Programming Notes/Leetcode/Graphs.md",
     "Dailies/02-23-2024.md",
@@ -271,9 +309,6 @@
     "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 2 - Data Models and Query Languages.md",
     "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 1- Reliable Scalable, and Maintainable Applications.md",
     "Books/Designing Data-Intensive Applications/Chapter X - Chapter Title.md",
-    "Programming Notes/Books/System Design Interview/1. Table of Contents.md",
-    "Dailies/11-05-2023.md",
-    "Programming Notes/Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md",
     "Excalidraw",
     "Programming Notes/Books/System Design Interview/Drawings",
     "Programming Notes/The Odin Project",

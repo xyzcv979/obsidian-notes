@@ -1,4 +1,4 @@
-
+https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/02-workflow-orchestration#221----intro-to-orchestration
 ## What is orchestration?
 Data orchestration is process of dependency management. Scheduling, triggering, monitoring. A form of automation
 A sequential order of steps to carry out, using DAGs (Directed Acyclic Graphs), meaning graph with no cycles.
@@ -44,6 +44,37 @@ Following along: https://github.com/mage-ai/mage-zoomcamp
 	- Query bigquery to test connection
 	- To test Google Cloud Storage > use built-in data loader for GCS. Add in your project and bucket names 
 - ETL: API to GCS
-	- 
+	- Using a datalake (GCS) for storage solution
+	- Blocks:
+		- load api data
+		- transform the data (clean it up)
+		- Export the data (to GCS)
+			- Load as 1 file
+			- Or load as many: You can partition 1 file into a folder of files (by time), so that you can load the files in parallel instead of uploading 1 big monofile
+- ETL: GCS to BigQuery
+	- Process the data from data lake(gcs) to bigquery
+	- Blocks
+		- load data
+		- transform the data
+		- write the data to bigquery
+	- To schedule this pipeline, add a Trigger. Can set the time, frequency, etc.
+- Parameterized Execution
+	- Example use: storing a file for each day.
+	- Runtime variables
+	- Either parameterize in python code or use Runtime Variables via Trigger settings
+- BackFills
+	- Backfilling pipelines
+	- Say you need to rerun pipelines, in typical system, you need to build backfill pipeline simulating the exact days. This can be tricky
+	- Using Backfills side panel option, you can backfill pretty easily
+- Deployments Videos:
+	- Deployment Prereqs
+		- Terraform, gcloud cli, Mage Terraform templates
+	- Google Cloud Permissions
+		- Assign roles to the service account in IAM
+	- Deploying to Google Cloud
+		- When pushing to Git, sync with Mage, deploy
+- Next steps
+
+		
 
 
