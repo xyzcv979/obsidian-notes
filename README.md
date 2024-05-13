@@ -97,3 +97,36 @@
 		7. Seek to succeed(rather than avoid failure) and believe that ability is changeable
 	
 
+
+## Read research papers
+https://read.highgrowthengineer.com/p/why-reading-whitepapers-takes-your
+https://github.com/papers-we-love/papers-we-love
+
+### How to deep dive into papers
+- Identify specialty: Distributed Systems, Databases, Operating Systems
+- Techniques
+	- Skim 15 mins
+	- Dive into details 45-60 mins (highlight content as such. Blue: unique insight, Red: I don't understand it, yellow: Contains research I'd like to follow up on)
+	- Summarize your understanding by teaching others (blog posts)
+
+## 3 pass techniques
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://ccr.sigcomm.org/online/files/p83-keshavA.pdf
+### 1) First pass - Skim, limit to 10 minutes
+Read introduction, subheaders, conclusion, skim references for information on topics you don't understand. 
+Should be able to answer 5 C's
+- Category: What type of paper is it? Analysis, description, measurement?
+- Context: What other papers are related to it? What theoretical bases are used?
+- Correctness: Do assumptions seem valid?
+- Contributions: What are paper's main contributions?
+- Clarity: is paper well written?
+#### 2) Second pass - Deep dive, up to an hour
+Read with greater care but ignore proofs, equations, most figures and tables. This helps jot down key ideas while you assume the proofs are true.
+Identify main point, strengths, weaknesses.
+Should be able to summarize main idea of the paper with supporting evidence, to someone else.
+If you still don't understand the paper, you can either drop it cause it's not useful information, return to it later after learning prerequisite knowledge, perservere and go to third pass
+
+#### 3) Third pass - Reimplement the paper
+Attempt to reimplement the paper, make the same assumptions as the author. Identify failures, assumptions, and challenge them. Think about how you yourself would present a particular idea. Jot down ideas for future work. 
+You should be able to pinpoint implicit assumptions, identify missing citations to relevant work and any issues with experimental or analytical techniques. 
+
+

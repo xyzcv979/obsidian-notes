@@ -61,5 +61,3 @@
 [Discuss any plans or ideas for applying what you've learned from this chapter.]
 
 
-## Anki Cards
-TARGET DECK: 

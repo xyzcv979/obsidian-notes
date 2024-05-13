@@ -41,3 +41,29 @@
 - Set specific, achievable goals for each session.
 - Adapt the schedule as needed. Life happens, and flexibility is essential.
 - Ensure you get enough rest. Consistent sleep is crucial for effective learning and problem-solving.
+
+
+## Books
+DDIA
+System design book
+
+## Research papers
+Pick a paper weekly
+3 phase reading
+Take notes, summarize learnings in blog post
+
+## Interview Prep
+Neetcode list
+Company tagged leetcode most popular
+Behavioral prep
+### Topics:
+Programming languages
+Data structures
+Algorithms
+Object Oriented Design
+System design
+Databases
+Distributed Systems
+Networking
+Operating Systems
+

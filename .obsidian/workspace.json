@@ -4,140 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b7792ca4fca50cc5",
-        "type": "split",
+        "id": "b5576017823d9818",
+        "type": "tabs",
         "children": [
           {
-            "id": "b5576017823d9818",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ac2abad836e947b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "04439b8c2f0f5732",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Schedule.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f08b6a120ff32539",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programming Notes/Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1506b1a29d3b41d1",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Programming Notes/Books/System Design Interview/Drawings/Drawing 2023-10-13 11.08.05.excalidraw.md"
-                  }
-                }
-              },
-              {
-                "id": "d5df413495377882",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "96093868f903c12c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programming Notes/CS61B.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9a5535d09be13efb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programming Notes/Data Engineering Zoomcamp/1. Overview.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "aa925705440cb2d7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a7aaa211ed5b306c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programming Notes/Data Engineering Zoomcamp/Module 3 - Data warehouse (BigQuery).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "7ac2abad836e947b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 8
-          },
-          {
-            "id": "aa16b86a619c3e9d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "77042324d6efead9",
-                "type": "leaf",
-                "state": {
-                  "type": "diagram-edit",
-                  "state": {
-                    "file": "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg",
+                "file": "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg",
+                "file": "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg"
+                "file": "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md"
               }
             }
           },
@@ -279,43 +161,46 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "77042324d6efead9",
+  "active": "7ac2abad836e947b",
   "lastOpenFiles": [
-    "Programming Notes/Data Engineering Zoomcamp/Module 3 - Data warehouse (BigQuery).md",
-    "Programming Notes/Data Engineering Zoomcamp/Untitled Diagram.svg",
-    "Programming Notes/Data Engineering Zoomcamp/Module 2 - Orchestration.md",
-    "Programming Notes/Data Engineering Zoomcamp/1. Overview.md",
-    "Programming Notes/Data Engineering Zoomcamp/Module 1 - Docker, Terraform.md",
-    "Dailies/03-19-2024.md",
-    "Programming Notes/Data Engineering Zoomcamp",
-    "Dailies/03-12-2024.md",
-    "Programming Notes/Leetcode/Graphs.md",
-    "Dailies/02-23-2024.md",
-    "Programming Notes/CS61B.md",
-    "Dailies/01-24-2024.md",
-    "README.md",
-    "Dailies/01-15-2024.md",
-    "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 3 - Storage and Retrieval.md",
-    "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 4 - Encoding and Evolution.md",
-    "Dailies/01-07-2024.md",
-    "Programming Notes/Books/System Design Interview/Chapter 7 - Design Unique ID Generator For Distributed Systems.md",
-    "Programming Notes/Books/System Design Interview/Chapter 4 - Design Rate Limiter.md",
-    "Programming Notes/Books/System Design Interview/Chapter 3 - A framework for system design interviews.md",
-    "Programming Notes/Books/System Design Interview/Chapter 2 - Back-of-the-envelope Estimation.md",
-    "Programming Notes/Books/System Design Interview/Chapter 1 - Scale From zero to millions of users.md",
-    "Programming Notes/Books/System Design Interview/Chapter 6 - Design Key Value Store.md",
-    "Programming Notes/Books/System Design Interview/Chapter 5 - Design Consistent Hashing.md",
-    "Programming Notes/Untitled",
-    "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 2 - Data Models and Query Languages.md",
-    "Programming Notes/Books/Designing Data-Intensive Applications/Chapter 1- Reliable Scalable, and Maintainable Applications.md",
-    "Books/Designing Data-Intensive Applications/Chapter X - Chapter Title.md",
-    "Excalidraw",
-    "Programming Notes/Books/System Design Interview/Drawings",
-    "Programming Notes/The Odin Project",
-    "Programming Notes/Projects",
-    "attachments",
-    "Programming Notes/Books/System Design Interview",
-    "Programming Notes/Books/Designing Data-Intensive Applications",
-    "Programming Notes/Books"
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/1. Arrays.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics/4. Geometry.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics/3. Math.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics/2. Binary.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics/1. Dynamic Programming.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/4. Trie.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/3. Heap.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/2. Graphs.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/1. Trees.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/5. Interval.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/4. Stack.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/3. Queue.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/2. Linked List.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/1. Matrix.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/5. Sorting and Searching.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/4. Recursion.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/3. Hash Table.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md",
+    "attachments/Pasted image 20240512151850.png",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/Untitled Diagram.svg",
+    "Coding/Computer Science Topics/1. Interview Prep/1. Tech interview guides.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/Techniques to solve coding questions.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics",
+    "Coding/Computer Science Topics/1. Interview Prep/Anki Cards.md",
+    "Dailies/05-11-2024.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Object Oriented Design/OOD Questions.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Object Oriented Design/Design Patterns.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Object Oriented Design/Principles.md",
+    "Dailies/05-10-2024.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/6. Graphs",
+    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Trees",
+    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Linked List",
+    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Queue",
+    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Stacks",
+    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Arrays",
+    "Coding/Data Engineering Zoomcamp/Untitled Diagram.svg"
   ]
 }
