@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md",
+                "file": "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md",
+                "file": "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md",
+                "file": "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md"
+                "file": "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md"
               }
             }
           },
@@ -163,24 +163,34 @@
   },
   "active": "7ac2abad836e947b",
   "lastOpenFiles": [
-    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/1. Arrays.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Behavioral/STAR Method.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Leadership Principles.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/5. Interval.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Behavioral",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics/4. Geometry.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics/3. Math.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics/2. Binary.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics/1. Dynamic Programming.md",
-    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/4. Trie.md",
-    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/3. Heap.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/2. Graphs.md",
+    "Dailies/05-28-2024.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/3. Heap.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/4. Trie.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures/1. Trees.md",
-    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/5. Interval.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/4. Stack.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/3. Queue.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/2. Linked List.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures/1. Matrix.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/5. Sorting and Searching.md",
+    "Dailies/05-20-2024.md",
+    "attachments/Pasted image 20240519181158.png",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/4. Recursion.md",
+    "Coding/Computer Science Topics/Event-Driven Architecture Masterclass - ScyllaDB.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/3. Hash Table.md",
+    "attachments/Pasted image 20240514214344.png",
+    "attachments/Pasted image 20240514214331.png",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md",
+    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/1. Arrays.md",
     "attachments/Pasted image 20240512151850.png",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/Untitled Diagram.svg",
     "Coding/Computer Science Topics/1. Interview Prep/1. Tech interview guides.md",
@@ -189,18 +199,11 @@
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics",
-    "Coding/Computer Science Topics/1. Interview Prep/Anki Cards.md",
-    "Dailies/05-11-2024.md",
-    "Coding/Computer Science Topics/1. Interview Prep/Object Oriented Design/OOD Questions.md",
-    "Coding/Computer Science Topics/1. Interview Prep/Object Oriented Design/Design Patterns.md",
-    "Coding/Computer Science Topics/1. Interview Prep/Object Oriented Design/Principles.md",
-    "Dailies/05-10-2024.md",
     "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/6. Graphs",
     "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Trees",
     "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Linked List",
     "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Queue",
     "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Stacks",
-    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Arrays",
     "Coding/Data Engineering Zoomcamp/Untitled Diagram.svg"
   ]
 }
