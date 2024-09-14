@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md",
+                "file": "Writing/Writing Skills/On Writing Science Fiction and Fantasy - Brandon Sanderson.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md",
+                "file": "Writing/Writing Skills/On Writing Science Fiction and Fantasy - Brandon Sanderson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md",
+                "file": "Writing/Writing Skills/On Writing Science Fiction and Fantasy - Brandon Sanderson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md"
+                "file": "Writing/Writing Skills/On Writing Science Fiction and Fantasy - Brandon Sanderson.md"
               }
             }
           },
@@ -163,6 +163,16 @@
   },
   "active": "7ac2abad836e947b",
   "lastOpenFiles": [
+    "Dailies/09-13-2024.md",
+    "Writing/Brainstorm/Untitled 1.md",
+    "Writing/Writing Skills/On Writing Science Fiction and Fantasy - Brandon Sanderson.md",
+    "Writing/Stories/Untitled.md",
+    "Writing/Brainstorm",
+    "Writing/Stories",
+    "Writing/Writing Skills",
+    "Schedule.md",
+    "Writing",
+    "README.md",
     "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md",
     "Coding/Computer Science Topics/1. Interview Prep/Behavioral/STAR Method.md",
     "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Leadership Principles.md",
@@ -185,25 +195,15 @@
     "Dailies/05-20-2024.md",
     "attachments/Pasted image 20240519181158.png",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/4. Recursion.md",
-    "Coding/Computer Science Topics/Event-Driven Architecture Masterclass - ScyllaDB.md",
-    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/3. Hash Table.md",
     "attachments/Pasted image 20240514214344.png",
     "attachments/Pasted image 20240514214331.png",
-    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/2. String.md",
-    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/1. Arrays.md",
     "attachments/Pasted image 20240512151850.png",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics/Untitled Diagram.svg",
-    "Coding/Computer Science Topics/1. Interview Prep/1. Tech interview guides.md",
-    "Coding/Computer Science Topics/1. Interview Prep/Leetcode/Techniques to solve coding questions.md",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/4. Additional Topics",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/3. Advanced data structures",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/2. Data Structures",
     "Coding/Computer Science Topics/1. Interview Prep/Leetcode/1. Basics",
     "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/6. Graphs",
-    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Trees",
-    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Linked List",
-    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Queue",
-    "Coding/Computer Science Topics/1. Interview Prep/Data Structures & Algorithms/Data Structures/Stacks",
     "Coding/Data Engineering Zoomcamp/Untitled Diagram.svg"
   ]
 }
