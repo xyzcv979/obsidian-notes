@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Neovim.md",
+                "file": "Coding/Vim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neovim"
+              "title": "Vim"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Neovim.md",
+                "file": "Coding/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Neovim"
+              "title": "Backlinks for Vim"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Neovim.md",
+                "file": "Coding/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Neovim"
+              "title": "Outgoing links from Vim"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Neovim.md"
+                "file": "Coding/Vim.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Neovim"
+              "title": "Outline of Vim"
             }
           },
           {
@@ -193,11 +193,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "7ac2abad836e947b",
+  "active": "a01e26d148040909",
   "lastOpenFiles": [
     "Schedule.md",
     "README.md",
-    "Coding/Neovim.md",
+    "Coding/Vim.md",
     "Dailies/01-19-2025.md",
     "Dailies/12-28-2024.md",
     "Writing/Brainstorm/Short stories.md",
