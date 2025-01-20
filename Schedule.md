@@ -2,20 +2,13 @@
 **Weekdays:**
 
 **Morning (Before Work):**
-- 6:00 AM - 8:00 AM: Workout Routine (Exercise, Shower, Breakfast)
-- 8:00 AM - 9:00 AM: Personal Time (Relax, check emails, plan the day)
-
-**Late Morning (Before Work):**
-- 9:00 AM - 10:00 AM: LeetCode Practice (Algorithms and data structures)
-- 10:00 AM - 5:00 PM: Software Engineering Job (Focus on work-related tasks and meetings)
+- workout, shower, eat breakfast
+- Leetcode, read technical books/papers
 
 **Evening (After Work):**
-- 5:00 PM - 6:00 PM: Personal Project Work (Consistent daily progress)
-- 6:00 PM - 7:00 PM: Dinner
-- 7:00 PM - 7:30 PM: Short Break
-- 7:30 PM - 8:30 PM: LeetCode Practice (Solve additional problems or revisit challenging ones)
-- 8:30 PM - 9:00 PM: Review Programming Concepts (Summarize what you learned during the day)
-- 9:00 PM: Relaxation (Read non-programming books, watch TV, unwind)
+- Dinner
+- Review what you've learned today, practice gratitude
+- Decompress, entertainment
 
 **Weekends:**
 

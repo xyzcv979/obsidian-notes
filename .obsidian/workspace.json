@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/01-19-2025.md",
+                "file": "Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-19-2025"
+              "title": "Schedule"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dailies/01-19-2025.md",
+                "file": "Coding/Neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01-19-2025"
+              "title": "Backlinks for Neovim"
             }
           },
           {
@@ -127,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/01-19-2025.md",
+                "file": "Coding/Neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01-19-2025"
+              "title": "Outgoing links from Neovim"
             }
           },
           {
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dailies/01-19-2025.md"
+                "file": "Coding/Neovim.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-19-2025"
+              "title": "Outline of Neovim"
             }
           },
           {
@@ -194,11 +193,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c61480697cb32b3c",
+  "active": "7ac2abad836e947b",
   "lastOpenFiles": [
+    "Schedule.md",
+    "README.md",
+    "Coding/Neovim.md",
     "Dailies/01-19-2025.md",
     "Dailies/12-28-2024.md",
-    "Coding/Neovim.md",
     "Writing/Brainstorm/Short stories.md",
     "Writing/Stories/Untitled.md",
     "Writing/Writing Skills/On Writing Science Fiction and Fantasy - Brandon Sanderson.md",
@@ -206,9 +207,7 @@
     "Writing/Brainstorm",
     "Writing/Stories",
     "Writing/Writing Skills",
-    "Schedule.md",
     "Writing",
-    "README.md",
     "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Prep.md",
     "Coding/Computer Science Topics/1. Interview Prep/Behavioral/STAR Method.md",
     "Coding/Computer Science Topics/1. Interview Prep/Behavioral/Amazon Leadership Principles.md",
