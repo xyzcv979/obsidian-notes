@@ -5,6 +5,9 @@
 > Premature Optimization is the root of all evil -Donald Knuth
 
 > Coding is fun - me
+
+### Preventing Burnout
+Joy, curiosity, passion, and challenge. Reignite your passion. Be curious. Rekindle what made coding fun in the first place. Build things and embrace challenges. View challenges as opportunities over hurdles. Perspective is important. You can view the problem as an opportunity rather than a chore.
 ### 7 Steps to become 10x Software Engineer
 	1. Embrace continious learning, stay curious
 	2. Practice deliberate practice, tackle weaknesses

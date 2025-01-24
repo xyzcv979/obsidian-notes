@@ -1,5 +1,5 @@
-
 ## Vim keybinds
+`:help` or `F1` - help menu 
 `<Esc>` - return to normal mode
 `:q!` - force quit without saving
 `:wq` - save and quit
@@ -9,13 +9,19 @@
 `u` - undo a change
 `U` - undo all changes in a line
 `<C-r` - redo the command. ctrl+r
+`<C-w> <C-w` - move to next window
+`:!<cmd>` - to run bash commands
+
 
 Operator Number Motion
-## Add text
+## Insert text
 `I` - insert text at the start of the line
 `i`  - insert text BEFORE cursor
 `A` - append text at the end of the line
 `a` - append text AFTER cursor
+`O` - open new line before the current line
+`o` - open new line after the current line and enter insert mode
+
 ### Deletion
 Operator:
 `d`
@@ -36,6 +42,7 @@ say, you deleted some text or a line, this saves to neovim register and you can 
 ### Replace
 `r` - replace the text at the current cursor with another character
 - ex. `rw` - replace text with w letter
+`R` - replace more than one char
 
 ### Change operator
 `c` - change the letters after and enters INSERT mode
@@ -75,3 +82,18 @@ Type `:s/<old>/<new>/g` - to substitute old word with new word on the line
 - `gc` can be used to ask for permission for each change
 `:#,#s/<old>/<new>/g` - change all occurrences of old to new between 2 specified lines where `#` is the line number
 `:%s/<old>/<new>/g` - change all occurrences of old to new in the entire file
+
+### Copy and paste text
+`y` - yank the highlighted text. Can be used as an operator
+- yank, and then put `p`
+
+### Visual Mode
+Typically `<C-v>` but doesn't work on windows terminal so use `<C-q>`
+`v` - to highlight text
+### Terminal
+`<leader-h>` to open horizontal terminal
+`<C-\> <C-n>` - to exit terminal mode
+
+### Completion
+start a command, `:<letters>`, press `<C-d>` to show list of commands that begin with what you typed
+`<TAB>` to complete the command
